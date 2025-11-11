@@ -1,0 +1,14 @@
+{
+  "name": "gugueye-backend-option1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.1.4",
+    "knex": "^2.5.1",
+    "pg": "^8.11.0"
+  }
+}
